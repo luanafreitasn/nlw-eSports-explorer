@@ -120,12 +120,12 @@ border: 1px solid #443E54
 /* animation */
     header div {
      
-        animation: fromTop .7s; .2s backwards;
+        animation: fromTop .7s .2s backwards
       
     }
 
     main section {
-        animation: fromBotton .7s; backwards;
+        animation: fromBotton .7s backwards;
     }
 
     main section:nth-child(1) {
