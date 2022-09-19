@@ -1,21 +1,23 @@
-# NLW eSports - Trilha Explorer
+# Nlw eSports - Trilha Explorer
+
+Projeto construído do evento Next Level week da Rocket Seat.
+
 ![preview](./.github/preview.png)
 
+## 🔗 Tecnologias
+HTML;
 
-Projeto construído do evento Next Level Week da RocketSeat.
+CSS;
 
-[👉🏻 Clique aqui para ter acesso ao meu projeto](https://luanafreitasn.github.io/nlw-eSports-explorer/)
+GIT e GitHub;
+
+## [👉 Clique para acessar o projeto](https://github.com/luanafreitasn/nlw-eSports-explorer)
 
 
-##  🔗 Tecnologias:
--HTML
+## ✍🏻 Considerações sobre o projeto
+O projeto Nlw - Trilha Explore foi fundamental para ampliar minhas expectativas sobre o mundo da programação. Como iniciante, ele nos dá uma noção de que com noções básicas de CSS/HTML podemos iniciar projetos úteis e visualmente agradáveis.
 
--CSS
 
--Git e Github
 
-## Considerações sobre o projeto:
-O projeto Next Level Week da RocketSeat - Trilha Explore foi fundamental para ampliar meus horizontes sobre programar. Nos mostrando que com o básico de HTML/CSS é possível fazer pequenos projetos que nos impulsione a aprender mais e mais sobre o assunto.
-
-## 👂🏻 Contatos:
+## 👨🏻‍💻 Contato
 luufreittas@gmail.com
